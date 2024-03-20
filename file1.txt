@@ -1,5 +1,5 @@
-Prva tekstualna datoteka
-Zdravo jas sum Angel Spasov
-Ova e mojata domasna zadaca
-Srabotena so  koristenje na
-Git i GitHub :D
+prva tekstualna datoteka
+zdravo jas sum Angel Spasov
+ova e mojata domasna zadaca
+srabotena so  koristenje na
+git i GitHub :D
