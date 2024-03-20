@@ -1,6 +1,6 @@
-Treta teksutalna datoteka
-This is my third .txt file
-This is a part of my homework
+1234567898765Goodbye
 I am gonna try to change the order of the lines in this file
 Have a good day!
-1234567898765Goodbye
+This is my third .txt file
+This is a part of my homework
+Treta teksutalna datoteka
